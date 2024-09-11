@@ -1,0 +1,7 @@
+input[type="text"]{
+    width: 50%;
+    height: 100%;
+    color: #000000;
+    border: none;
+    border-bottom: 1px solid blueviolet;
+}
